@@ -35,3 +35,5 @@
 *.png
 *.pbm
 *.ppm
+
+.vscode/
